@@ -1,3 +1,4 @@
+package edu.jair.primeirasemana;
 
 public class MinhaClasse {
 
